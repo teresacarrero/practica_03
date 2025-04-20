@@ -5,3 +5,5 @@ ecribe el usuario 01 pero no ha realizado anteriormente el pull
 escribe el usuario 02
 
 usuario 02 con bra
+
+seguir trabajando en el usuario 02
